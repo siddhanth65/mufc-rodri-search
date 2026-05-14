@@ -1,0 +1,3 @@
+from ScraperFC import FBref
+scraper = FBref()
+df = scraper.scrape_stats(season="2024-25", stat="passing", league="EPL")

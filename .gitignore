@@ -1,0 +1,10 @@
+data/sofascore/ 
+__pycache__/ 
+*.pyc 
+.claude/
+.claude
+__pycache__/
+*.pyc
+.env
+downloaded_files/
+tempCodeRunnerFile.py
