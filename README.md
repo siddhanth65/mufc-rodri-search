@@ -123,3 +123,8 @@ seasons (impact assessed and documented in `NOTES.md`); positional data is from
 the season aggregate, so players who changed roles across the window have a
 blended fingerprint that may not reflect their best position; and the model
 describes statistical fit, not the contextual judgement a human scout adds.
+## Results
+<img width="1935" height="919" alt="image" src="https://github.com/user-attachments/assets/35dc03b8-ae4a-43fb-8ae5-99a68c64cc5c" />
+<img width="1844" height="1534" alt="image" src="https://github.com/user-attachments/assets/95dda482-f61f-4de7-9f93-e031f3f16b6a" />
+
+
