@@ -94,6 +94,7 @@ src/
   stage2_complementarity.py   Stage 2: complementarity ranking vs Mainoo + Bruno
   stage3_practical_filters.py Stage 3: Transfermarkt age / value / contract modifiers
   stage4_profiles.py          Stage 4: percentile readouts + scouting notes
+  stage5_visual.py            Stage 5: visuals
 data/
   sofascore/                  Cached raw league-season pulls
   processed/                  Pipeline outputs (parquet)
@@ -108,6 +109,7 @@ python src/sofascore_pipeline.py --all     # pull + build fingerprint + Stage 1
 python src/stage2_complementarity.py       # Stage 2
 python src/stage3_practical_filters.py     # Stage 3 (scrapes Transfermarkt)
 python src/stage4_profiles.py              # Stage 4 profiles
+python src/stage5_visual.py                # Stage 5 visuals
 ```
 
 Sofascore opens a real browser window per request to clear bot protection, so the
